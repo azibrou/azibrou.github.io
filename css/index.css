@@ -1,6 +1,6 @@
 body {
   background-color: rgb(255, 255, 255);
-  font: normal 12px/1.60 OpenSans;
+  font: normal 16px/1.60 Georgia;
   color: rgb(0, 0, 0);
 }
 
@@ -13,9 +13,9 @@ body {
 .myface_container {
   display: inline-block;
   position: relative;
-  max-width: 680px;
+  max-width: 720px;
   margin: auto;
-  padding-left: 40px;
+  padding-left: 60px;
 }
 
 .face {
@@ -31,8 +31,8 @@ body {
 }
 
 .name {
-  width: 340px;
-  padding: 70px 0 0 70px;
+  width: 360px;
+  padding: 60px;
   position: relative;
   float: left;
   text-align: left;
@@ -41,7 +41,7 @@ body {
 .name p {
   text-align: left;
   padding-bottom: 20px;
-  font: normal 1.17em/1.60 OpenSans;
+  font: normal 1.17em/1.60;
 }
 
 
@@ -49,7 +49,7 @@ h1 {
   text-align: left;
   color:#000;
   padding-bottom: 5px;
-  font: normal 3em/1.60 'Oswald';
+  font: normal 2.2em/1.60 'Oswald';
   font-weight: bold;
   text-transform: uppercase;
 }
