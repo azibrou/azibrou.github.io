@@ -13,9 +13,8 @@ body {
 .myface_container {
   display: inline-block;
   position: relative;
-  max-width: 720px;
+  max-width: 640px;
   margin: auto;
-  padding-left: 60px;
 }
 
 .face {
@@ -31,8 +30,8 @@ body {
 }
 
 .name {
-  width: 360px;
-  padding: 60px;
+  width: 300px;
+  padding: 40px;
   position: relative;
   float: left;
   text-align: left;
