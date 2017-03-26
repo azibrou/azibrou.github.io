@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="263px" height="196px" viewBox="0 0 263 196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>bricks</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M22.8085787,69.2107685 L1,84.3299492 L1,137.121827 L66.9898477,183.314721 L159.375635,110.725888 L159.375635,57.2741117 L137.801964,45.1296895 C136.418567,41.8059567 132.039003,39.2825213 126.663545,38.8595622 L108.467822,28.6166809 C108.530959,28.2764137 108.563452,27.9300134 108.563452,27.5786802 C108.563452,22.840806 102.65452,19 95.3654822,19 C88.0764449,19 82.1675127,22.840806 82.1675127,27.5786802 C82.1675127,27.735407 82.1739786,27.8911522 82.1867464,28.0458093 L34.2050776,61.3099451 C28.0528071,61.8458074 23.2426352,65.1367855 22.8085787,69.2107685 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-4" y="-4" width="166.375635" height="172.314721">
+            <rect x="-3" y="15" width="166.375635" height="172.314721" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+        <path d="M48.3959391,83.5380711 C48.3959391,88.2759453 42.4870069,92.1167513 35.1979695,92.1167513 C27.9089322,92.1167513 22,88.2759453 22,83.5380711 L22,71 L48.3959391,71 L48.3959391,83.5380711 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-3" y="-3" width="32.3959391" height="27.1167513">
+            <rect x="19" y="68" width="32.3959391" height="27.1167513" fill="white"></rect>
+            <use xlink:href="#path-3" fill="black"></use>
+        </mask>
+        <path d="M78.3959391,102.538071 C78.3959391,107.275945 72.4870069,111.116751 65.1979695,111.116751 C57.9089322,111.116751 52,107.275945 52,102.538071 L52,90 L78.3959391,90 L78.3959391,102.538071 Z" id="path-5"></path>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-3" y="-3" width="32.3959391" height="27.1167513">
+            <rect x="49" y="87" width="32.3959391" height="27.1167513" fill="white"></rect>
+            <use xlink:href="#path-5" fill="black"></use>
+        </mask>
+        <path d="M78.3959391,62.5380711 C78.3959391,67.2759453 72.4870069,71.1167513 65.1979695,71.1167513 C57.9089322,71.1167513 52,67.2759453 52,62.5380711 L52,50 L78.3959391,50 L78.3959391,62.5380711 Z" id="path-7"></path>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-3" y="-3" width="32.3959391" height="27.1167513">
+            <rect x="49" y="47" width="32.3959391" height="27.1167513" fill="white"></rect>
+            <use xlink:href="#path-7" fill="black"></use>
+        </mask>
+        <path d="M108.395939,81.5380711 C108.395939,86.2759453 102.487007,90.1167513 95.1979695,90.1167513 C87.9089322,90.1167513 82,86.2759453 82,81.5380711 L82,69 L108.395939,69 L108.395939,81.5380711 Z" id="path-9"></path>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-3" y="-3" width="32.3959391" height="27.1167513">
+            <rect x="79" y="66" width="32.3959391" height="27.1167513" fill="white"></rect>
+            <use xlink:href="#path-9" fill="black"></use>
+        </mask>
+        <path d="M108.395939,40.5380711 C108.395939,45.2759453 102.487007,49.1167513 95.1979695,49.1167513 C87.9089322,49.1167513 82,45.2759453 82,40.5380711 L82,28 L108.395939,28 L108.395939,40.5380711 Z" id="path-11"></path>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-3" y="-3" width="32.3959391" height="27.1167513">
+            <rect x="79" y="25" width="32.3959391" height="27.1167513" fill="white"></rect>
+            <use xlink:href="#path-11" fill="black"></use>
+        </mask>
+        <path d="M138.395939,60.5380711 C138.395939,65.2759453 132.487007,69.1167513 125.19797,69.1167513 C117.908932,69.1167513 112,65.2759453 112,60.5380711 L112,48 L138.395939,48 L138.395939,60.5380711 Z" id="path-13"></path>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-3" y="-3" width="32.3959391" height="27.1167513">
+            <rect x="109" y="45" width="32.3959391" height="27.1167513" fill="white"></rect>
+            <use xlink:href="#path-13" fill="black"></use>
+        </mask>
+        <ellipse id="path-15" cx="35.1979695" cy="69.5786802" rx="13.1979695" ry="8.5786802"></ellipse>
+        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-3" y="-3" width="32.3959391" height="23.1573604">
+            <rect x="19" y="58" width="32.3959391" height="23.1573604" fill="white"></rect>
+            <use xlink:href="#path-15" fill="black"></use>
+        </mask>
+        <ellipse id="path-17" cx="65.1979695" cy="89.5786802" rx="13.1979695" ry="8.5786802"></ellipse>
+        <mask id="mask-18" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-3" y="-3" width="32.3959391" height="23.1573604">
+            <rect x="49" y="78" width="32.3959391" height="23.1573604" fill="white"></rect>
+            <use xlink:href="#path-17" fill="black"></use>
+        </mask>
+        <ellipse id="path-19" cx="65.1979695" cy="48.5786802" rx="13.1979695" ry="8.5786802"></ellipse>
+        <mask id="mask-20" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-3" y="-3" width="32.3959391" height="23.1573604">
+            <rect x="49" y="37" width="32.3959391" height="23.1573604" fill="white"></rect>
+            <use xlink:href="#path-19" fill="black"></use>
+        </mask>
+        <ellipse id="path-21" cx="125.19797" cy="47.5786802" rx="13.1979695" ry="8.5786802"></ellipse>
+        <mask id="mask-22" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-3" y="-3" width="32.3959391" height="23.1573604">
+            <rect x="109" y="36" width="32.3959391" height="23.1573604" fill="white"></rect>
+            <use xlink:href="#path-21" fill="black"></use>
+        </mask>
+        <ellipse id="path-23" cx="95.1979695" cy="68.5786802" rx="13.1979695" ry="8.5786802"></ellipse>
+        <mask id="mask-24" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-3" y="-3" width="32.3959391" height="23.1573604">
+            <rect x="79" y="57" width="32.3959391" height="23.1573604" fill="white"></rect>
+            <use xlink:href="#path-23" fill="black"></use>
+        </mask>
+        <ellipse id="path-25" cx="95.1979695" cy="27.5786802" rx="13.1979695" ry="8.5786802"></ellipse>
+        <mask id="mask-26" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-3" y="-3" width="32.3959391" height="23.1573604">
+            <rect x="79" y="16" width="32.3959391" height="23.1573604" fill="white"></rect>
+            <use xlink:href="#path-25" fill="black"></use>
+        </mask>
+        <path d="M146.935036,33.5804961 L128,48.1725888 L128,100.964467 L192.989848,147.15736 L255.680203,98.3248731 L255.680203,44.213198 L235.210932,30.6397045 C234.920561,26.257699 229.572867,22.7277279 222.866131,22.4536737 L204.324852,10.1586617 C204.471534,9.64654542 204.548223,9.11843411 204.548223,8.5786802 C204.548223,3.84080595 198.639291,0 191.350254,0 C184.061217,0 178.152284,3.84080595 178.152284,8.5786802 C178.152284,8.87935535 178.176082,9.17641761 178.22252,9.4691146 L159.679973,23.7587399 C152.536433,23.8674783 146.796954,27.6655806 146.796954,32.3350254 C146.796954,32.7580314 146.844056,33.1738866 146.935036,33.5804961 Z" id="path-27"></path>
+        <mask id="mask-28" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-4" y="-4" width="135.680203" height="155.15736">
+            <rect x="124" y="-4" width="135.680203" height="155.15736" fill="white"></rect>
+            <use xlink:href="#path-27" fill="black"></use>
+        </mask>
+        <path d="M173.395939,45.5380711 C173.395939,50.2759453 167.487007,54.1167513 160.19797,54.1167513 C152.908932,54.1167513 147,50.2759453 147,45.5380711 L147,33 L173.395939,33 L173.395939,45.5380711 Z" id="path-29"></path>
+        <mask id="mask-30" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-3" y="-3" width="32.3959391" height="27.1167513">
+            <rect x="144" y="30" width="32.3959391" height="27.1167513" fill="white"></rect>
+            <use xlink:href="#path-29" fill="black"></use>
+        </mask>
+        <path d="M205.395939,66.5380711 C205.395939,71.2759453 199.487007,75.1167513 192.19797,75.1167513 C184.908932,75.1167513 179,71.2759453 179,66.5380711 L179,54 L205.395939,54 L205.395939,66.5380711 Z" id="path-31"></path>
+        <mask id="mask-32" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-3" y="-3" width="32.3959391" height="27.1167513">
+            <rect x="176" y="51" width="32.3959391" height="27.1167513" fill="white"></rect>
+            <use xlink:href="#path-31" fill="black"></use>
+        </mask>
+        <path d="M204.395939,22.5380711 C204.395939,27.2759453 198.487007,31.1167513 191.19797,31.1167513 C183.908932,31.1167513 178,27.2759453 178,22.5380711 L178,10 L204.395939,10 L204.395939,22.5380711 Z" id="path-33"></path>
+        <mask id="mask-34" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-3" y="-3" width="32.3959391" height="27.1167513">
+            <rect x="175" y="7" width="32.3959391" height="27.1167513" fill="white"></rect>
+            <use xlink:href="#path-33" fill="black"></use>
+        </mask>
+        <path d="M235.395939,44.5380711 C235.395939,49.2759453 229.487007,53.1167513 222.19797,53.1167513 C214.908932,53.1167513 209,49.2759453 209,44.5380711 L209,32 L235.395939,32 L235.395939,44.5380711 Z" id="path-35"></path>
+        <mask id="mask-36" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-3" y="-3" width="32.3959391" height="27.1167513">
+            <rect x="206" y="29" width="32.3959391" height="27.1167513" fill="white"></rect>
+            <use xlink:href="#path-35" fill="black"></use>
+        </mask>
+        <ellipse id="path-37" cx="160.19797" cy="32.5786802" rx="13.1979695" ry="8.5786802"></ellipse>
+        <mask id="mask-38" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-3" y="-3" width="32.3959391" height="23.1573604">
+            <rect x="144" y="21" width="32.3959391" height="23.1573604" fill="white"></rect>
+            <use xlink:href="#path-37" fill="black"></use>
+        </mask>
+        <ellipse id="path-39" cx="192.19797" cy="53.5786802" rx="13.1979695" ry="8.5786802"></ellipse>
+        <mask id="mask-40" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-3" y="-3" width="32.3959391" height="23.1573604">
+            <rect x="176" y="42" width="32.3959391" height="23.1573604" fill="white"></rect>
+            <use xlink:href="#path-39" fill="black"></use>
+        </mask>
+        <ellipse id="path-41" cx="191.19797" cy="8.5786802" rx="13.1979695" ry="8.5786802"></ellipse>
+        <mask id="mask-42" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-3" y="-3" width="32.3959391" height="23.1573604">
+            <rect x="175" y="-3" width="32.3959391" height="23.1573604" fill="white"></rect>
+            <use xlink:href="#path-41" fill="black"></use>
+        </mask>
+        <ellipse id="path-43" cx="222.19797" cy="31.5786802" rx="13.1979695" ry="8.5786802"></ellipse>
+        <mask id="mask-44" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-3" y="-3" width="32.3959391" height="23.1573604">
+            <rect x="206" y="20" width="32.3959391" height="23.1573604" fill="white"></rect>
+            <use xlink:href="#path-43" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bricks" transform="translate(3.000000, 4.000000)">
+            <g id="Combined-Shape">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use stroke="#000000" mask="url(#mask-2)" stroke-width="8" xlink:href="#path-1"></use>
+            </g>
+            <polygon id="Rectangle" stroke="#000000" stroke-width="3" fill="#FFFFFF" points="0 84 66.6497462 130.852792 66.6497462 184.304569 0 137.451777"></polygon>
+            <polygon id="Rectangle" stroke="#000000" stroke-width="3" fill="#FFFFFF" points="160.045685 58 67 131.248731 67 184.700508 160.045685 111.451777"></polygon>
+            <g id="Combined-Shape">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <use stroke="#000000" mask="url(#mask-4)" stroke-width="6" xlink:href="#path-3"></use>
+            </g>
+            <g id="Combined-Shape">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                <use stroke="#000000" mask="url(#mask-6)" stroke-width="6" xlink:href="#path-5"></use>
+            </g>
+            <g id="Combined-Shape">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                <use stroke="#000000" mask="url(#mask-8)" stroke-width="6" xlink:href="#path-7"></use>
+            </g>
+            <g id="Combined-Shape">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                <use stroke="#000000" mask="url(#mask-10)" stroke-width="6" xlink:href="#path-9"></use>
+            </g>
+            <g id="Combined-Shape">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-11"></use>
+                <use stroke="#000000" mask="url(#mask-12)" stroke-width="6" xlink:href="#path-11"></use>
+            </g>
+            <g id="Combined-Shape">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-13"></use>
+                <use stroke="#000000" mask="url(#mask-14)" stroke-width="6" xlink:href="#path-13"></use>
+            </g>
+            <g id="Oval">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-15"></use>
+                <use stroke="#000000" mask="url(#mask-16)" stroke-width="6" xlink:href="#path-15"></use>
+            </g>
+            <g id="Oval">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-17"></use>
+                <use stroke="#000000" mask="url(#mask-18)" stroke-width="6" xlink:href="#path-17"></use>
+            </g>
+            <g id="Oval">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-19"></use>
+                <use stroke="#000000" mask="url(#mask-20)" stroke-width="6" xlink:href="#path-19"></use>
+            </g>
+            <g id="Oval">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-21"></use>
+                <use stroke="#000000" mask="url(#mask-22)" stroke-width="6" xlink:href="#path-21"></use>
+            </g>
+            <g id="Oval">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-23"></use>
+                <use stroke="#000000" mask="url(#mask-24)" stroke-width="6" xlink:href="#path-23"></use>
+            </g>
+            <g id="Oval">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-25"></use>
+                <use stroke="#000000" mask="url(#mask-26)" stroke-width="6" xlink:href="#path-25"></use>
+            </g>
+            <polygon id="Rectangle-2" fill-opacity="0.200000003" fill="#000000" transform="translate(177.181383, 126.181383) rotate(-45.000000) translate(-177.181383, -126.181383) " points="128.288608 98.5247955 168.500883 58.8521321 214.875311 110.190263 226.074159 193.510635 142.287168 183.711642"></polygon>
+            <g id="Combined-Shape">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-27"></use>
+                <use stroke="#000000" mask="url(#mask-28)" stroke-width="8" xlink:href="#path-27"></use>
+            </g>
+            <polygon id="Rectangle" stroke="#000000" stroke-width="3" fill="#FFFFFF" points="127 48 193.649746 94.8527919 193.649746 148.304569 127 101.451777"></polygon>
+            <polygon id="Rectangle" stroke="#000000" stroke-width="3" fill="#FFFFFF" points="257.010152 45 193 94.4923858 193 147.944162 257.010152 98.4517766"></polygon>
+            <g id="Combined-Shape">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-29"></use>
+                <use stroke="#000000" mask="url(#mask-30)" stroke-width="6" xlink:href="#path-29"></use>
+            </g>
+            <g id="Combined-Shape">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-31"></use>
+                <use stroke="#000000" mask="url(#mask-32)" stroke-width="6" xlink:href="#path-31"></use>
+            </g>
+            <g id="Combined-Shape">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-33"></use>
+                <use stroke="#000000" mask="url(#mask-34)" stroke-width="6" xlink:href="#path-33"></use>
+            </g>
+            <g id="Combined-Shape">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-35"></use>
+                <use stroke="#000000" mask="url(#mask-36)" stroke-width="6" xlink:href="#path-35"></use>
+            </g>
+            <g id="Oval">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-37"></use>
+                <use stroke="#000000" mask="url(#mask-38)" stroke-width="6" xlink:href="#path-37"></use>
+            </g>
+            <g id="Oval">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-39"></use>
+                <use stroke="#000000" mask="url(#mask-40)" stroke-width="6" xlink:href="#path-39"></use>
+            </g>
+            <g id="Oval">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-41"></use>
+                <use stroke="#000000" mask="url(#mask-42)" stroke-width="6" xlink:href="#path-41"></use>
+            </g>
+            <g id="Oval">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-43"></use>
+                <use stroke="#000000" mask="url(#mask-44)" stroke-width="6" xlink:href="#path-43"></use>
+            </g>
+        </g>
+    </g>
+</svg>
