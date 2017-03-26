@@ -6,6 +6,7 @@ body {
   padding-bottom: 60px;
 }
 
+
 .main_container {
   display: block;
   position: relative;
@@ -96,26 +97,15 @@ body {
 .myface_container {
   display: inline-block;
   position: relative;
-  max-width: 600px;
-  margin: auto;
+  width: 100%;
 }
 
-.face {
-  position: relative;
-  float: left;
-  width: 300px;
-  height: 300px;
-  background-color: #0000ff;
-  background-image: url('../images/alehzibrou@2x.png');
-  background-repeat: no-repeat;
-  background-position: left top;
-  background-size: 100%;
-}
 
 .name {
   width: 500px;
   padding: 40px 20px 40px 60px;
   position: relative;
+  text-align: center;
 }
 
 .name h1{
@@ -130,20 +120,6 @@ body {
   font-size: 1.33em;
 }
 
-
-.tv_text {
-  display: block;
-  position: relative;
-  float: left;
-  text-align: left;
-  padding: 20px 0 0 20px;
-}
-
-.tv_text p {
-  text-align: left;
-  margin-bottom: 20px;
-  font-size: 1.17em;
-}
 
 .button_more {
   display: block;
@@ -169,17 +145,40 @@ h1 {
   letter-spacing: 0.05em;
 }
 
+@media only screen and (max-width: 600px) {
 
-.af_container {
-  display: inline-block;
-  position: relative;
-  max-width: 1200px;
-  height: 600px;
-  background-color:#00AE91;
-}
+  .box_container {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+  }
 
-.img_left {
-  display: block;
-  position: relative;
-  float: left;
+
+  .g75 {
+    display: block;
+    position: relative;
+    float: none;
+    width: 100%;
+    height: 600px;
+    background-color: blue;
+  }
+
+  .g50 {
+    display: block;
+    position: relative;
+    float: none;
+    width: 100%;
+    height: 60px;
+    background-color: blue;
+  }
+
+  .g25 {
+    display: block;
+    position: relative;
+    float: none;
+    width: 100%;
+    height: 30px;
+    background-color: tomato;
+  }
+
 }
